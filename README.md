@@ -13,6 +13,7 @@ Below is the **front page** where you can enter name. This will be stored in the
 
 
 Below is the main page.
+
 <img src="img/booklist-main.png" alt="drawing" width="170px" height="200px" style="text-align:center"/>
 
 
