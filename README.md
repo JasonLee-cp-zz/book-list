@@ -1,4 +1,4 @@
-# Store your books! :smiley:
+# Store your memories! :smiley:
 
 ### Link: https://jasonlee-cp.github.io/book-list/
 
