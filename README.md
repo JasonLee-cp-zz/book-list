@@ -2,7 +2,9 @@
 
 ### Link: https://jasonlee-cp.github.io/book-list/
 
-This is book-list app made by *vanila javascript* and *bootstrap*. You can write (title/author/price/book record URL(blog etc)/ISBN#) to store your book data.
+This is book-list app made by **Vanila Javascript** and **Bootstrap**. You can write (title/author/price/book/record URL(blog etc)/ISBN#) to store your book data.
+
+Below is the front page where you can enter name. This will be stored in the local Storage so that you can use later after closing tab.
 
 <img src="img/booklist-front.png" alt="drawing" width="200px" height="200px"/>
 
