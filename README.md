@@ -2,7 +2,7 @@
 
 ### Link: https://jasonlee-cp.github.io/book-list/
 
-This is book-list app made by **Vanila Javascript** and **Bootstrap**. You can write (title/author/price/book/record URL(blog etc)/ISBN#) to store your book data.
+This is book-list desktop app made by **Vanila Javascript** and **Bootstrap**. You can write (title/author/price/book/record URL(blog etc)/ISBN#) to store your book data.
 
 
 
