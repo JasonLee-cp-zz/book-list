@@ -17,5 +17,7 @@ Below is the **main page**.
 <img src="img/booklist-main.png" alt="drawing" width="350px" height="350px" style="text-align:center"/>
 
 
+There are some features such as *pop-up message* when you haven't filled out all the input fields.
 
+Also, when you click the **exit** button, all your data in the local storage will be gone and will redirect you to the front page.
 
